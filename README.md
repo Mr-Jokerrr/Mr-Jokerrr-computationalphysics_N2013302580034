@@ -36,7 +36,7 @@
 
 　　<img src="https://raw.githubusercontent.com/Mr-Jokerrr/computationalphysics_N2013302580034/master/the%207th%20homework/img/missile Output.png" alt="最优解VPython模拟图2" align=center />
 
-##[**第八次作业**](https://github.com/Mr-Jokerrr/computationalphysics_N2013302580034/blob/master/the%208th%20homework/harmonic_motion.py)：
+##[**第八次作业**](Mr-Jokerrr-computationalphysics_N2013302580034/the 8th homework/8th_homework.md)：
 - 在VPython上模拟小球的单摆运动（书本3.4题），增加Alpha的值后可以明显看到小球往返的加速度变化更大了，每个周期的运动时间更短。
 
 　　<img src="https://raw.githubusercontent.com/Mr-Jokerrr/computationalphysics_N2013302580034/master/img/harmonic_motion1.png" width = "300" height = "300" style="margin-right:10px" alt="单摆运动图1" align=center />　　
