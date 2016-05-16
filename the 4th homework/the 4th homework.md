@@ -1,7 +1,5 @@
 
-# the forth homework
-
-第四次作业代码地址:
+# the 4th & 5th homework
 
 [**Problem1.1代码**](https://github.com/Mr-Jokerrr/computationalphysics_N2013302580034/blob/master/the%20forth%20homework/problem1.1.py)
 
