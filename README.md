@@ -11,7 +11,7 @@
 - Here is the [**code**](the 3th homework/the 3th homework.py)
 
 ## The 4th homework：
-- Solving the after-class exercises in chapter1.
+- Solving the after-class exercises in chapter1. Try to do some simulations using the Euler method.
 - Here is the [**md file**](the 4th homework/the 4th homework.md)
 
 ## The 5th homework：
