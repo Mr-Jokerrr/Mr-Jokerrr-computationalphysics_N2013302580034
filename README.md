@@ -19,11 +19,11 @@
 - Here is the [**md file**](the 4th homework/the 4th homework.md)
 
 ## The 6th homework：
-- 考虑了除科里奥利力之外的作用，并尝试着使用VPython模拟炮弹的发射的动画
+- Considering aerodynamic drag and the error of velocity. Using VPython to simulate the missile launching.
 - Here is the [**md file**](the 6th homework/the 6th homework.md)
-- 附VPython图形模型介绍： [The Visual Module of VPython](http://www.vpython.org/contents/docs_vp5/visual/index.html)
+- Appendix of VPython help webpage： [The Visual Module of VPython](http://www.vpython.org/contents/docs_vp5/visual/index.html)
 
- <img src="https://raw.githubusercontent.com/Mr-Jokerrr/computationalphysics_N2013302580034/master/the%206th%20homework/img/shell.png" width = "300" height = "300" alt="第六次作VPython模拟图" align=center />
+ <img src="the 6th homework/img/shell.png" width = "300" height = "300" alt="第六次作VPython模拟图" align=center />
 
 ## The 7th homework：[**第七次作业**](the 7th homework/the 7th homework.md)：
 - 在第六次作业的基础上加上了科里奥利力，并且用VPython在球体上呈现模拟整个流程。
