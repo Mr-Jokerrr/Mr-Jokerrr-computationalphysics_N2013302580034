@@ -41,17 +41,19 @@
 
 　　<img src="https://raw.githubusercontent.com/Mr-Jokerrr/computationalphysics_N2013302580034/master/the%207th%20homework/img/missile Output.png" alt="最优解VPython模拟图2" align=center />
 
-## [**第八次作业**](the 8th homework/8th_homework.md)：
-- 在VPython上模拟小球的单摆运动（书本3.4题），增加Alpha的值后可以明显看到小球往返的加速度变化更大了，每个周期的运动时间更短。
+## The 8th homework：
+- Solving the after-class exercises 3.7 & 3.8. Using the Euler method to investigate something about Pendulum.
+- Here is the [**md file**](the 8th homework/8th_homework.md)
 
-　　<img src="https://raw.githubusercontent.com/Mr-Jokerrr/computationalphysics_N2013302580034/master/img/harmonic_motion1.png" width = "300" height = "300" style="margin-right:10px" alt="单摆运动图1" align=center />　　
-　　<img src="https://raw.githubusercontent.com/Mr-Jokerrr/computationalphysics_N2013302580034/master/img/harmonic_motion2.png" width = "300" height = "300" alt="单摆运动图2" align=center />
+## The 9th homework：
+- Here is the [**md file**](the 9th homework/9th_homework.md)  暂缺
 
-## [**第九次作业（暂缺）**](the 9th homework/9th_homework.md)：
+## The 10th homework：
+- Here is the [**md file**](the 9th homework/10th_homework.md)  暂缺
 
-## [**第十次作业（暂缺）**](the 10th homework/10th_homework.md)：
+## The 11th homework：
+- Here is the [**md file**](the 9th homework/11th_homework.md)  暂缺
 
-## [**第十一次作业（暂缺）**](the 11th homework/11th_homework.md)：
-
-## [**第十二次作业（暂缺）**](the 12th homework/12th_homework.md)：
+## The 12th homework：
+- Here is the [**md file**](the 9th homework/12th_homework.md)  暂缺
 
