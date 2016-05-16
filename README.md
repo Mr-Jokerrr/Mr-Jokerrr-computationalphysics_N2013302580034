@@ -3,16 +3,16 @@
 ## The 1th homework：
 - 虚拟机装UBuntu双系统
 
-## The 1th homework：
+## The 2th homework：
 - 安装贺翀师兄写的vim插件[Thesaurus Query](https://github.com/Ron89/thesaurus_query.vim)，并点赞
 
 ## The 3th homework：
 - 输出任意字母，每行的字母最多显示5个.Here is the [**code**](the 3th homework/the 3th homework.py)
 
-## [**The 4th homework**](the 4th homework/the 4th homework.md)：
-- Solving the after-class exercises in chapter1.
+## The 4th homework：
+- Solving the after-class exercises in chapter1. [**The md file**](the 4th homework/the 4th homework.md)
 
-## [**The 5th homework**](the 4th homework/the 4th homework.md)：
+## The 5th homework：
 - It's same as the 4th homework.
 
 ## [**第六次作业**](the 6th homework/the 6th homework.md)：
