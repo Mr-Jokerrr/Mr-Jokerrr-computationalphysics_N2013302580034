@@ -1,33 +1,33 @@
 # Homework List
 
 ## The 1th homework：
-- 虚拟机装UBuntu双系统
+- 虚拟机装UBuntu双系统.
 
 ## The 2th homework：
-- 安装贺翀师兄写的vim插件[Thesaurus Query](https://github.com/Ron89/thesaurus_query.vim)，并点赞
+- 安装贺翀师兄写的vim插件[Thesaurus Query](https://github.com/Ron89/thesaurus_query.vim)，并点赞.
 
 ## The 3th homework：
 - 输出任意字母，每行的字母最多显示5个.
-- Here is the [**code**](the 3th homework/the 3th homework.py)
+- Here is the [**code**](the 3th homework/the 3th homework.py).
 
 ## The 4th homework：
 - Solving the after-class exercises in chapter1. Try to do some simulations using the Euler method.
-- Here is the [**md file**](the 4th homework/the 4th homework.md)
+- Here is the [**md file**](the 4th homework/the 4th homework.md).
 
 ## The 5th homework：
 - It's same as the 4th homework.
-- Here is the [**md file**](the 4th homework/the 4th homework.md)
+- Here is the [**md file**](the 4th homework/the 4th homework.md).
 
 ## The 6th homework：
 - Considering aerodynamic drag and the error of velocity. Using VPython to simulate the missile launching.
-- Here is the [**md file**](the 6th homework/the 6th homework.md)
-- `Appendix of VPython help webpage`： [The Visual Module of VPython](http://www.vpython.org/contents/docs_vp5/visual/index.html)
+- Here is the [**md file**](the 6th homework/the 6th homework.md).
+- `Appendix of VPython help webpage： [The Visual Module of VPython](http://www.vpython.org/contents/docs_vp5/visual/index.html)`.
 
  <img src="the 6th homework/img/shell.png" width = "300" height = "300" alt="第六次作VPython模拟图" align=center />
 
 ## The 7th homework：[**第七次作业**](the 7th homework/the 7th homework.md)：
 - 在第六次作业的基础上加上了科里奥利力，并且用VPython在球体上呈现模拟整个流程。
-- Here is the [**md file**](the 7th homework/the 7th homework.md)
+- Here is the [**md file**](the 7th homework/the 7th homework.md).
 
 　　<img src="https://raw.githubusercontent.com/Mr-Jokerrr/computationalphysics_N2013302580034/master/the%207th%20homework/img/VPythonMissile1.png" width = "300" height = "300" alt="全过程VPython模拟图1" align=center />　　
 　　<img src="https://raw.githubusercontent.com/Mr-Jokerrr/computationalphysics_N2013302580034/master/the%207th%20homework/img/VPythonMissile2.png" width = "300" height = "300" alt="全过程VPython模拟图2" align=center />
@@ -43,7 +43,7 @@
 
 ## The 8th homework：
 - Solving the after-class exercises 3.7 & 3.8. Using the Euler method to investigate something about Pendulum.
-- Here is the [**md file**](the 8th homework/8th_homework.md)
+- Here is the [**md file**](the 8th homework/8th_homework.md).
 
 ## The 9th homework：
 - Here is the [**md file**](the 9th homework/9th_homework.md)  暂缺
