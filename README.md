@@ -9,19 +9,19 @@
 ##[**第三次作业**](the 3th homework/the 3th homework.py)：
 - 输出任意字母，每行的字母最多显示5个
 
-##[**第四次作业**](https://github.com/Mr-Jokerrr/computationalphysics_N2013302580034/blob/master/the%204th%20homework/the%204th%20homework.md)：
+##[**第四次作业**](the 4th homework/the 4th homework.md)：
 - 计算物理第一章课后习题，没有考虑算法的优化问题，运算量可能会比较大，精度提高的话运算量也成几何数级上升
 
-##[**第五次作业**](https://github.com/Mr-Jokerrr/computationalphysics_N2013302580034/blob/master/the%204th%20homework/the%204th%20homework.md)：
+##[**第五次作业**](the 4th homework/the 4th homework.md)：
 - 同第四次作业
 
-##[**第六次作业**](https://github.com/Mr-Jokerrr/computationalphysics_N2013302580034/blob/master/the%206th%20homework/shell.py)：
+##[**第六次作业**](the 6th homework/the 6th homework.md)：
 - 考虑了除科里奥利力之外的作用，并尝试着使用VPython模拟炮弹的发射的动画
 - 附VPython图形模型介绍： [The Visual Module of VPython](http://www.vpython.org/contents/docs_vp5/visual/index.html)
 
 　　<img src="https://raw.githubusercontent.com/Mr-Jokerrr/computationalphysics_N2013302580034/master/the%206th%20homework/img/shell.png" width = "300" height = "300" alt="第六次作VPython模拟图" align=center />
 
-##[**第七次作业**](https://github.com/Mr-Jokerrr/computationalphysics_N2013302580034/blob/master/the%206th%20homework)：
+##[**第七次作业**](the 7th homework/the 7th homework.md)：
 - [**第七次作业VPython直接模拟版**](https://github.com/Mr-Jokerrr/computationalphysics_N2013302580034/blob/master/the%207th%20homework/VPythonMissile.py)在第六次作业的基础上加上了科里奥利力，并且用VPython在球体上呈现模拟整个流程。
 
 　　<img src="https://raw.githubusercontent.com/Mr-Jokerrr/computationalphysics_N2013302580034/master/the%207th%20homework/img/VPythonMissile1.png" width = "300" height = "300" alt="全过程VPython模拟图1" align=center />　　
