@@ -6,7 +6,7 @@
 ##第二次作业：
 - 安装贺翀师兄写的vim插件[Thesaurus Query](https://github.com/Ron89/thesaurus_query.vim)，并点赞
 
-##[**第三次作业**](https://github.com/Mr-Jokerrr/computationalphysics_N2013302580034/blob/master/the%203th%20homework/the%203th%20homework.py)：
+##[**第三次作业**](the 3th homework/the 3th homework.py)：
 - 输出任意字母，每行的字母最多显示5个
 
 ##[**第四次作业**](https://github.com/Mr-Jokerrr/computationalphysics_N2013302580034/blob/master/the%204th%20homework/the%204th%20homework.md)：
