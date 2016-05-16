@@ -21,7 +21,7 @@
 ## The 6th homework：
 - Considering aerodynamic drag and the error of velocity. Using VPython to simulate the missile launching.
 - Here is the [**md file**](the 6th homework/the 6th homework.md)
-- Appendix of VPython help webpage： [The Visual Module of VPython](http://www.vpython.org/contents/docs_vp5/visual/index.html)
+- `Appendix of VPython help webpage`： [The Visual Module of VPython](http://www.vpython.org/contents/docs_vp5/visual/index.html)
 
  <img src="the 6th homework/img/shell.png" width = "300" height = "300" alt="第六次作VPython模拟图" align=center />
 
