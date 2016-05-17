@@ -6,7 +6,7 @@
 
  ![formula3_14](img/formula3_14.png),
 
- Show numerically the existence of the resonance, and confirm the dependence of the resonant amplitude on the driving angular frequncy Ω
+ Show numerically the existence of the resonance, and confirm the dependence of the resonant amplitude on the driving angular frequncy Ω.
 
 - 3.8 In the nonlinear pendulum of the equation of motion
 
@@ -20,4 +20,4 @@
 
   ![3.7_1](img/3.7_1.png)
 
-- As we can see, this picture shows us a very deirct version of the change of the amplitude and period because of the change of the driving angular frequency. From the image we can easily find that the driving angular frequency and the amplitude are not a linear relationship. But still we can get imformation from the image. When the driving angular frequency is close to π, 
+- As we can see, this picture shows us a very deirct version of the change of the amplitude and period because of the change of the driving angular frequency Ω. From the image we can easily find that the driving angular frequency Ω and the amplitude are not a linear relationship. But still we can get imformation from the image. When the driving angular frequency Ω is close to the value of π(maybe 3.0 as an approximate), the final amplitude is the biggist. And on the other hand, the pendulum is much stable when the driving angular frequency Ω is about 2.0.
