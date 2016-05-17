@@ -18,7 +18,7 @@
 
 ### Exercise 3.7
 
-- To be simple and clear, I write the first [**code**](code/problem3.7_1.py) to compare the 4 different situations. And here is the image of this program below.
+- To be simple and clear, I write a program to compare the 4 different situations. And here is the image of this program below.
 
   ![3.7_1](img/3.7_1.png)
 
@@ -35,6 +35,13 @@
 - As a common sense, when l become smaller, the period become smaller, too. We can easily find this rule from the image below. Here 4 curves with 4 different q has been given.
 
   ![3.8](img/3.8.png)
+
+## Codes:
+
+- Here is the codes of these programs.
+- [**problem3.7_1**](code/problem3.7_1.py)
+- [**problem3.7_2**](code/problem3.7_2.py)
+- [**problem3.8**](code/problem3.8.py)
 
 ## Conclusion:
 
