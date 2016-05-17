@@ -35,3 +35,7 @@
 - As a common sense, when l become smaller, the period become smaller, too. We can easily find this rule from the image below. Here 4 curves with 4 different q has been given.
 
   ![3.8](img/3.8.png)
+
+## Conclusion:
+
+- From these program above, we can find some common rules fo pendulum. Such as the relationship between l and θ, or between Ω and q etc. These program have helped me learn much deeper in pendulum investigating.
