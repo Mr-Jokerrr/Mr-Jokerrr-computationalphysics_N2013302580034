@@ -7,7 +7,7 @@
 - 安装贺翀师兄写的vim插件[Thesaurus Query](https://github.com/Ron89/thesaurus_query.vim)，并点赞.
 
 ## The 3th homework：
-- 输出任意字母，每行的字母最多显示5个.
+- Output any letters on the controller, and the maximum letters of each line.
 - Here is the [**code**](the 3th homework/the 3th homework.py).
 
 ## The 4th homework：
