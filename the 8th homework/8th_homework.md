@@ -32,4 +32,6 @@
 
 ### Exercise 3.8
 
-- As a common sense, the 
+- As a common sense, when l become smaller, the period become smaller, too. We can easily find this rule from the image below. Here 4 curves with 4 different q has been given.
+
+  ![3.8](img/3.8.png)
