@@ -16,7 +16,7 @@
 
 ## Solutions:
 
- ###Exercise 3.7
+ ### Exercise 3.7
 
 - To be simple and clear, I write the first [**code**](code/problem3.7_1.py) to compare the 4 different situations. And here is the image of this program below.
 
@@ -30,7 +30,7 @@
  
 - Here we can see the friction parameter q and the amplitude are a linear relationship, which means the bigger q is, the bigger the amplitude is. And also, when q=1.0, the curveis turns out to be the most stable one.
 
- ###Exercise 3.8
+ ### Exercise 3.8
 
 - As a common sense, when l become smaller, the period become smaller, too. We can easily find this rule from the image below. Here 4 curves with 4 different q has been given.
 
