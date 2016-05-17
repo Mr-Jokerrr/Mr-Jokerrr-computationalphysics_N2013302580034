@@ -16,7 +16,8 @@
 
 ## Solutions:
 
-- 3.7 To be simple and clear, I write the first [**code**](code/problem3.7_1.py) to compare the 4 different situations. And here is the image of this program below.
+### 3.7 
+- To be simple and clear, I write the first [**code**](code/problem3.7_1.py) to compare the 4 different situations. And here is the image of this program below.
 
   ![3.7_1](img/3.7_1.png)
 
