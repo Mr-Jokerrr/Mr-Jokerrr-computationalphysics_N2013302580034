@@ -26,7 +26,8 @@
  <img src="the 6th homework/img/shell.png" width = "300" height = "300" alt="第六次作VPython模拟图" align=center />
 
 ## The 7th homework：
-- An improvement on the 6th homework.Considering geostrophic force, the error during the whole simulation, the wind resistance, and so on. At the same time, a comparatively best program to calculate the best launching angle is be uploaded.
+- An improvement on the 6th homework.Considering geostrophic force, the error during the whole simulation, the wind resistance, and so on. 
+- At the same time, a comparatively best program to calculate the best launching angle is be uploaded.
 - Here is the [**md file**](the 7th homework/the 7th homework.md).
 
 ## The 8th homework：
