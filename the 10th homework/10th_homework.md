@@ -1,24 +1,33 @@
-# The 8th homework
+# The 10th homework
 
 ## Exercise List:
 
-- 3.7 Numerically investigate the linear, forced pendulum with friction of the equation of motion
+- 3.26 Continue the previous problem, and construct the phase-space plots as in Figure3.16 and 3.17 in the different regimes.
 
- ![formula3_14](img/formula3_14.png),
-
- Show numerically the existence of the resonance, and confirm the dependence of the resonant amplitude on the driving angular frequncy Ω.
-
-- 3.8 In the nonlinear pendulum of the equation of motion
-
-  ![formula3_17](img/formula3_17.png),
-
- Use Euler-Cromer or another suitable method to investigate the relationship between the amplitude and period numerically.Can you give an intuitive argument supporting your results?
+- 3.29 
 
 ## Solutions:
 
-### 3.7 
-- To be simple and clear, I write the first [**code**](code/problem3.7_1.py) to compare the 4 different situations. And here is the image of this program below.
+### 3.26 
+- Here is the [**code**](code/problem3.26.py) of exercise 3.26. Below are three figure during the run time of the program. The first is the same as Figure3.16, we can find it just like two intertwined spirals which is a symbol of chaos.
 
-  ![3.7_1](img/3.7_1.png)
+  <img src="img/3.26_0.png" width = "400" height = "400" alt="Problem1.3" align=center />
 
-- As we can see, this picture shows us a very deirct version of the change of the amplitude and period because of the change of the driving angular frequency Ω. From the image we can easily find that the driving angular frequency Ω and the amplitude are not a linear relationship. But still we can get imformation from the image. When the driving angular frequency Ω is close to the value of π(maybe 3.0 as an approximate), the final amplitude is the biggist. And on the other hand, the pendulum is much stable when the driving angular frequency Ω is about 2.0.
+  And the next two figure shows a evolution of the former figure with r increasing.
+
+  <img src="img/3.26_1.png" width = "400" height = "400" alt="Problem1.3" align=center />
+  <img src="img/3.26_2.png" width = "400" height = "400" alt="Problem1.3" align=center />
+
+  So it can be easily find out that the increaing of r is a fundamental factor for chaos.
+
+### 3.29
+- The three figures below respectively shows the Lorenz variable z as a function of time, for high values of r. And approximately 163.8 seems to be a boundary between chaos and order. The fist figure is also seen in the textbook.
+
+  <img src="img/3.29_0.png" width = "400" height = "400" alt="Problem1.3" align=center />
+
+  And the following two figures are of two values of r that are near 163.8.
+
+  <img src="img/3.29_1.png" width = "400" height = "400" alt="Problem1.3" align=center />
+  <img src="img/3.29_2.png" width = "400" height = "400" alt="Problem1.3" align=center />
+ 
+  It
