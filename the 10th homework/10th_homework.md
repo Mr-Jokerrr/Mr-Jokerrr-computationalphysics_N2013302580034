@@ -4,7 +4,7 @@
 
 - 3.26 Continue the previous problem, and construct the phase-space plots as in Figure3.16 and 3.17 in the different regimes.
 
-- 3.29 
+- 3.29 Explore the intermittency route to chaos for r>=163 in more detail. Begin by calculating z as a function of time for different values of r. Try r=163, and several larger values up to r=165 or so. For the larger values of r you should observe chaotic "hiccups".
 
 ## Solutions:
 
@@ -30,4 +30,4 @@
   <img src="img/3.29_1.png" width = "400" height = "400" alt="Problem1.3" align=center />
   <img src="img/3.29_2.png" width = "400" height = "400" alt="Problem1.3" align=center />
  
-  It
+  So we can see from the figures, the bigger r goes the more unpredictable z goes. The "hiccups" will become more and the averange time between these hiccups will be less.
