@@ -1,14 +1,10 @@
-# The 8th homework
+# The 9th homework
 
 ## Exercise List:
 
-- 3.7 Numerically investigate the linear, forced pendulum with friction of the equation of motion
+- 3.12 In constructing the Poincare section in Figure3.9 we plotted points only at times that were in phase with the drive force; that is, at times t≈2πn/Ω_D, where n is an integer. At these values of t the driving force passed through zero. However, we could just as easily have chosen to make the plot at times corresponding to a maximum of the drive force, or at times π/4 out-of-phase with this force, etc. Construct the Poincare sections for these cases and compare them with Figure3.9.
 
- ![formula3_14](img/formula3_14.png),
-
- Show numerically the existence of the resonance, and confirm the dependence of the resonant amplitude on the driving angular frequncy Ω.
-
-- 3.8 In the nonlinear pendulum of the equation of motion
+- 3.16 In the nonlinear pendulum of the equation of motion
 
   ![formula3_17](img/formula3_17.png),
 
@@ -16,9 +12,12 @@
 
 ## Solutions:
 
-### 3.7 
-- To be simple and clear, I write the first [**code**](code/problem3.7_1.py) to compare the 4 different situations. And here is the image of this program below.
+### 3.12
+- To be simp1e and clear, I write the first [**code**](code/problem3.12.py) to compare the 4 different situations. And here is the image of this program below.
 
-  ![3.7_1](img/3.7_1.png)
+  ![3.12_0](img/3.12_0.png)
+  ![3.12_1](img/3.12_1.png)
+  ![3.12_2](img/3.12_2.png)
 
-- As we can see, this picture shows us a very deirct version of the change of the amplitude and period because of the change of the driving angular frequency Ω. From the image we can easily find that the driving angular frequency Ω and the amplitude are not a linear relationship. But still we can get imformation from the image. When the driving angular frequency Ω is close to the value of π(maybe 3.0 as an approximate), the final amplitude is the biggist. And on the other hand, the pendulum is much stable when the driving angular frequency Ω is about 2.0.
+### 3.16
+- 
