@@ -33,10 +33,12 @@
 - Here is the [**md file**](the 8th homework/8th_homework.md).
 
 ## The 9th homework：
-- Here is the [**md file**](the 9th homework/9th_homework.md)  暂缺
+- Investigating some questions about chaos in the driven nonlinear pendulum.
+- Here is the [**md file**](the 9th homework/9th_homework.md)
 
 ## The 10th homework：
-- Here is the [**md file**](the 9th homework/10th_homework.md)  暂缺
+- Investigating the chaos using the Lorenz model.
+- Here is the [**md file**](the 9th homework/10th_homework.md)
 
 ## The 11th homework：
 - Here is the [**md file**](the 9th homework/11th_homework.md)  暂缺
