@@ -38,11 +38,11 @@
 
 ## The 10th homework：
 - Investigating the chaos using the Lorenz model.
-- Here is the [**md file**](the 9th homework/10th_homework.md)
+- Here is the [**md file**](the 10th homework/10th_homework.md)
 
 ## The 11th homework：
-- Here is the [**md file**](the 9th homework/11th_homework.md)  暂缺
+- Here is the [**md file**](the 11th homework/11th_homework.md)  暂缺
 
 ## The 12th homework：
-- Here is the [**md file**](the 9th homework/12th_homework.md)  暂缺
+- Here is the [**md file**](the 12th homework/12th_homework.md)  暂缺
 
