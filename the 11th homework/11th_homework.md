@@ -10,7 +10,7 @@
 ## Solutions:
 
 ### 4.7 
-- Here is the [**code**](code/problem4.7.py) of exercise 4.7. And I also show it using VPython. Here is the [**code**](code/problem4.7_Vpython.py).
+- Here is the [**code**](code/problem4.7.py) of exercise 4.7. And I also show it using VPython. Here is the [**code**](code/problem4.7_VPython.py).
 - Here is the results below.
 
   <img src="img/4.7.png" width = "400" height = "400" alt="Problem1.3" align=center />
