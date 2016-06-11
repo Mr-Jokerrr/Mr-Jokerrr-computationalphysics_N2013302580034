@@ -41,7 +41,8 @@
 - Here is the [**md file**](the 10th homework/10th_homework.md)
 
 ## The 11th homework：
-- Here is the [**md file**](the 11th homework/11th_homework.md)  暂缺
+- Investigating some relevant questions of solar system using some different laws with different coefficient.
+- Here is the [**md file**](the 11th homework/11th_homework.md)
 
 ## The 12th homework：
 - Here is the [**md file**](the 12th homework/12th_homework.md)  暂缺
