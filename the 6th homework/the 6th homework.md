@@ -4,3 +4,5 @@
 - Here is the [**code**](code/shell.py)
 
  <img src="img/shell.png" width = "300" height = "300" alt="shell launching" align=center />
+ 
+ <img src="img/shell.gif" width = "300" height = "300" alt="shell launching" align=center />
