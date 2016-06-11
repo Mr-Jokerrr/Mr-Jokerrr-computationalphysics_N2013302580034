@@ -21,7 +21,7 @@
   So it can be easily find out that the increaing of r is a fundamental factor for chaos.
 
 ### 3.29
-- The three figures below respectively shows the Lorenz variable z as a function of time, for high values of r. And approximately 163.8 seems to be a boundary between chaos and order. The fist figure is also seen in the textbook.
+- Here is the [**code**](code/problem3.29.py) of exercise 3.29.The three figures below respectively shows the Lorenz variable z as a function of time, for high values of r. And approximately 163.8 seems to be a boundary between chaos and order. The fist figure is also seen in the textbook.
 
   <img src="img/3.29_0.png" width = "400" height = "400" alt="Problem1.3" align=center />
 
