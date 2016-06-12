@@ -1,7 +1,7 @@
 # Homework List
 
 ## The 1th homework：
-- 虚拟机装UBuntu双系统.
+- 安装UBuntu双系统.
 
 ## The 2th homework：
 - 安装贺翀师兄写的vim插件[Thesaurus Query](https://github.com/Ron89/thesaurus_query.vim)，并点赞.
@@ -45,7 +45,8 @@
 - Here is the [**md file**](the 11th homework/11th_homework.md)
 
 ## The 12th homework：
-- Here is the [**md file**](the 12th homework/12th_homework.md)  暂缺
+- Some results following the investigating of solar system. Here we do some simulation about three-body system, the cause of the gap of the asteroids, and chaotic phenomenon in "moons".
+- Here is the [**md file**](the 12th homework/12th_homework.md)
 
 ## The 13th homework：
 - Here is the [**md file**](the 13th homework/13th_homework.md)  暂缺
