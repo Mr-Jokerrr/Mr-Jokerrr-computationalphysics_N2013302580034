@@ -53,6 +53,3 @@
 
 ## The 14th homework：
 - Here is the [**md file**](the 14th homework/14th_homework.md)  暂缺
-
-## The 15th homework：
-- Here is the [**md file**](the 15th homework/15th_homework.md)  暂缺
