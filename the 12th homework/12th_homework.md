@@ -6,7 +6,7 @@
 
 - 4.18 Investigate how close an asteroid must be to the precise gap resonance in order to be effectively "in" the gap. That is, study the effective width of the resonance in Figure4.14. Do this by performing the calculation of Figure4.15 for several asteroids whose orbits are near that of asteroid number 2. Calculate how much the orbit is "smeared out" as a function of the initial orbital radius.
 
-- 4.20 Our results for the divergence of two trajectories θ<sub>1</sub>(t)and θ<sub>2</sub>(t)
+- 4.20 Our results for the divergence of two trajectories θ<sub>1</sub>(t) and θ<sub>2</sub>(t) in the chaotic regime, shown on the right in Figure4.19, are complicated by the way we dealt with the angle θ. In Figure4.19 we followed the practice employed in Chapter 3 and restricted θ to the range -π to +π, since angles outside this range are equivalent to angles within it. However, when during the course of a calculation the angle passes out of this range and is then "reset", this shows up in the results for ∆θ as a discontinuous jump. Repeat the calculation of ∆θ as in Figure4.17, but do not restrict the value of θ. This should remove the large jumpsin ∆θ in Figure4.19, but the smaller and more frequent dips will remain. What is the origin of these dips?
 
 ## Solutions:
 
