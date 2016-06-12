@@ -22,8 +22,7 @@
 
 ### 4.18
 - Here is the [**code**](code/problem4.18.py) of exercise 4.18. 
--  I just show the exact figure as the testbook did. And the right figure was enlargered. 
-        The first two figures and the last two figures lasted different times.
+-  I just show the exact figure as the testbook did. And the right figure was enlargered. The first two figures and the last two figures lasted different times.
 
     <img src="img/4.18_1.png" width = "400" height = "400" alt="Problem4.18_1" align=center />
     <img src="img/4.18_2.png" width = "400" height = "400" alt="Problem4.18_2" align=center />
