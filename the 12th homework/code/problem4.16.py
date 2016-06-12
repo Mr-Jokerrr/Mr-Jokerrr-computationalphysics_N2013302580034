@@ -39,10 +39,8 @@ Pj.velocity = vector(0, 0, 0)
 Pj.velocity.y = -VPjy_ini
 
 while 1:
-	#	设置动画速度
 	rate(1000)
 	
-	#	导弹飞行轨迹
 	Rse = math.sqrt((Ps.x-Pe.x)**2+(Ps.y-Pe.y)**2)
 	Rsj = math.sqrt((Ps.x-Pj.x)**2+(Ps.y-Pj.y)**2)
 	Rej = math.sqrt((Pe.x-Pj.x)**2+(Pe.y-Pj.y)**2)
