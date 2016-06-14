@@ -49,7 +49,8 @@
 - Here is the [**md file**](the 12th homework/12th_homework.md)
 
 ## The 13th homework：
-- Here is the [**md file**](the 13th homework/13th_homework.md)  暂缺
+- Using different methods to investigate the potential around two symmetry capacitor.
+- Here is the [**md file**](the 13th homework/13th_homework.md)
 
 ## The 14th homework：
 - Here is the [**md file**](the 14th homework/14th_homework.md)  暂缺
