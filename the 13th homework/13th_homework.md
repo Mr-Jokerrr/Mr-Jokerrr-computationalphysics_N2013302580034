@@ -12,8 +12,8 @@
 - Here is the [**code**](code/problem5.3.py) of exercise 5.3.
 - 1
 
-    <img src="img/5.3_1.gif" width = "400" height = "400" alt="Problem5.3_1" align=center />
-    <img src="img/5.3_2.gif" width = "400" height = "400" alt="Problem5.3_2" align=center />
+    <img src="img/5.3_1.png" width = "400" height = "400" alt="Problem5.3_1" align=center />
+    <img src="img/5.3_2.png" width = "400" height = "400" alt="Problem5.3_2" align=center />
 
 ### 5.7
 - Here is the [**code**](code/problem4.18.py) of exercise 5.7. 
