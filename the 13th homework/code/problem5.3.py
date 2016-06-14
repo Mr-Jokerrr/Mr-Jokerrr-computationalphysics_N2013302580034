@@ -17,7 +17,7 @@ V1 = [[0.0] * (N+1) for row in range(N+1)]
 V2 = [[0.0] * (N+1) for row in range(N+1)]
 
 n = i = x = y = 0
-L = 5000
+L = 50
 x_array=[]
 y_array=[]
 z_array=[]
