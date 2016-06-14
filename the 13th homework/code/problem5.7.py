@@ -17,7 +17,7 @@ V = [[0.0] * (N+1) for row in range(N+1)]
 V_old = [[0.0] * (N+1) for row in range(N+1)]
 
 i = x = y = 0
-L = 5000
+L = 50
 alpha = 2/(1+math.pi/L)
 x_array=[]
 y_array=[]
