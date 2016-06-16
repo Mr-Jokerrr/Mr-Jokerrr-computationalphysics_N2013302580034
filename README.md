@@ -53,4 +53,5 @@
 - Here is the [**md file**](the 13th homework/13th_homework.md)
 
 ## The 14th homework：
-- Here is the [**md file**](the 14th homework/14th_homework.md)  暂缺
+- Investigate the motion of a String in different situations.
+- Here is the [**md file**](the 14th homework/14th_homework.md)
