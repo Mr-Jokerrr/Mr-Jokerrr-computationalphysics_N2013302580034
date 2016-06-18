@@ -1,5 +1,5 @@
 
-# the 4th & 5th homework
+# the 4<sup>th</sup> & 5<sup>th</sup> homework
 
 - Six programs each for corresponding exercise.
 
