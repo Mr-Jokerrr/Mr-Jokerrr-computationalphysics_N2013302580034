@@ -1,4 +1,4 @@
-# The 12th homework
+# The 12<sup>th</sup> homework
 
 ## Exercise List:
 
