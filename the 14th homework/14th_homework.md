@@ -1,4 +1,4 @@
-# The 14th homework
+# The 14<sup>th</sup> homework
 
 ## Exercise List:
 
