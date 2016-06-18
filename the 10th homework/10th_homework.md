@@ -1,4 +1,4 @@
-# The 10th homework
+# The 10<sup>th</sup> homework
 
 ## Exercise List:
 
