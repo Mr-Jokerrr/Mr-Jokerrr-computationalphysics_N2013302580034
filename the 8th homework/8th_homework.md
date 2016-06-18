@@ -1,4 +1,4 @@
-# The 8th homework
+# The 8<sup>th</sup> homework
 
 ## Exercise List:
 
