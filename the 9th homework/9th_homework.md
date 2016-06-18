@@ -1,4 +1,4 @@
-# The 9th homework
+# The 9<sup>th</sup> homework
 
 ## Exercise List:
 
